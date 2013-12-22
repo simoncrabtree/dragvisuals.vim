@@ -35,4 +35,8 @@ Or even:
     vmap  <expr>   <LEFT><LEFT>   DVB_Drag('left')              
     vmap  <expr>  <RIGHT><RIGHT>  DVB_Drag('right')             
     vmap  <expr>   <DOWN><DOWN>   DVB_Drag('down')              
-    vmap  <expr>     <UP><UP>     DVB_Drag('up')                
+    vmap  <expr>     <UP><UP>     DVB_Drag('up')
+
+## To use
+
+Select with visual mode and move the block with h, l, j or k etc.
